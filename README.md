@@ -1,7 +1,7 @@
 # Rune
 ### What
 At an application level, this application is a **RAG based Q&A on top of 40 years of Warren Buffett Newsletters**.
-As a pipeline it demonstrates the few shot fine tune of a DSPy RAG model. In particular the examples in the https://dspy-docs.vercel.app/ work with Weaviate Retriever (that is DSPy lingo for the storage and indexing model). To make life simpler, this code runs a pdf File-based Retriever built using LlamaIndex.
+As a pipeline it demonstrates the few shot fine tune of a DSPy RAG model. In particular the examples in the [DSPy Documentation]( https://dspy-docs.vercel.app/) work with Weaviate Retriever (that is DSPy lingo for the storage and indexing model). To make life simpler, this code runs a pdf File-based Retriever built using LlamaIndex.
 
 ### How
 Code has 3 parts to it:
